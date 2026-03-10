@@ -55,5 +55,3 @@ Se realizaron diversas visualizaciones para identificar patrones críticos:
 1. Clonar el repositorio: `git clone https://github.com/Panchito1602/Alura-Latam-DataScience-Challenge-1`
 2. Abrir el archivo `.ipynb` en **Google Colab**.
 3. Ejecutar las celdas en orden para cargar los datasets desde el repositorio de Alura y visualizar los gráficos generados.
-
----
